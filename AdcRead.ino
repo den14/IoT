@@ -1,7 +1,7 @@
 /*
-Программа опроса аналогового порта ESP8266
-Для независимой обработки цикла опроса от мигания светодиодом
-использована библиотека Ticker
+NodeMCU (ESP8266) Analog Port Polling Program
+The Ticker library is used for independent processing
+of the polling cycle from LED flashing
 */
 
 #include <Ticker.h>
